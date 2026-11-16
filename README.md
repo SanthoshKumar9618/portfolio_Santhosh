@@ -7,6 +7,29 @@ Personal portfolio of **T Santhosh Kumar**, Software Engineer (Python Backend & 
 - **Email:** tsanthoshdev6@gmail.com
 - **Resume:** [assets/T_Santhosh_Kumar_Software_Engineer_Resume.pdf](assets/T_Santhosh_Kumar_Software_Engineer_Resume.pdf)
 
+## Screenshots
+
+### Home
+![Home](assets/screenshots/home.png)
+
+### About
+![About](assets/screenshots/about.png)
+
+### Skills
+![Skills](assets/screenshots/skills.png)
+
+### Experience
+![Experience](assets/screenshots/experience.png)
+
+### Projects
+![Projects](assets/screenshots/project.png)
+
+### Contact
+![Contact](assets/screenshots/contact.png)
+
+### Mobile
+<img src="assets/screenshots/mobile.png" alt="Mobile view" width="320">
+
 ## About
 
 Software Engineer with 1+ year of experience building backend, web and mobile applications with Python, FastAPI,
